@@ -1,6 +1,6 @@
 # Roster-Composition-On-Team-Performance-In-NBA
 
-This was a major research paper conducted by my group member (Shadi Chamseddine) and I for our ECON 5029 F Methods of Economic Research course.
+This was a major research paper conducted by my group member ([Shadi Chamseddine](https://github.com/ShadoC3)) and I for our ECON 5029 F Methods of Economic Research course.
 
 The data to create this analysis is found in the 'Data' folder.
 
