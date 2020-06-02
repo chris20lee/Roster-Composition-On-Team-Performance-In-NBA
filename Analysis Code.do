@@ -6,7 +6,7 @@
 *DATA IMPORT
 
 *Global macro for directory
-global direc "C:\Users\Chris\Google Drive\University\Graduate Studies\Year 2 (Fall 2019 - Winter 2020)\Term 1 (Fall 2018)\ECON 5029 - Methods of Economic Research\Research Paper\Data & Analysis"
+global direc "C:\Users\Chris\Desktop"
 
 *Call to file
 insheet using "$direc\stata_datafile.csv", clear
