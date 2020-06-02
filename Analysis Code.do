@@ -1,8 +1,3 @@
-********************************
-*Name: Shadi Chamseddine
-*Name: Christopher Lee
-********************************
-
 *DATA IMPORT
 
 *Global macro for directory
